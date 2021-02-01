@@ -1,0 +1,25 @@
+.list {
+  padding: 0px;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-left: 0px;
+}
+
+.button {
+  margin-left: 10px;
+}
+
+.bullet {
+  align-self: center;
+  width: 10px;
+  height: 10px;
+  margin-right: 10px;
+
+  background-color: black;
+  border-radius: 50%;
+}
